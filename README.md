@@ -13,6 +13,12 @@ For a live view of the application click here: https://elementcontrol.netlify.ap
 
 ## Technologies
 Project is created with:
+- @testing-library/jest-dom version: 4.2.4
+- @testing-library/react version: 9.5.0
+- @testing-library/user-event version: 7.2.1
+- react version: 16.13.1
+- react-dom version : 16.13.1
+ - react-scripts version : 3.4.1
 
 
 ## How I worked on this project
