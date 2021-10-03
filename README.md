@@ -1,4 +1,5 @@
 # Element Control
+For a live view of the application click here: https://elementcontrol.netlify.app/
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
