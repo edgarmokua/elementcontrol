@@ -30,7 +30,6 @@ The application uses open Weather API to get upto date weather information.\
 The background changes to show whether the area is hot or cold based on a pre-determined range.
 ## Why I built the project this way
 I didn't use state management library such as Redux on purpose. For this app simple ```useState``` is sufficient. I realised that more and more projects don't use Redux since GraphQL or react-query are often used to manage data.\
-React Native Elements is a great library for styling when using React Native. It performs the same functions as Material-UI and provides styling for various components.\
 My plan is to become a Full Stack Developer eventually but for now i am focusing on Front End and that is why i chose to use an existing API rather than create a custom server. I have basic Backend knowledge as well.
 ## If I had more time i would change this
 - Create more precise commits
